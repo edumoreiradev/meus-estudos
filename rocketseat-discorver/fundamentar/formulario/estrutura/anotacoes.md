@@ -2,7 +2,7 @@
 
 method ( get or post)
 post: criar algo como login 
-<form action="" methof=""></form>
+<form action="" method=""></form>
 
 # fieldset
 disable: desabilita o envio do formulário
@@ -14,12 +14,6 @@ primeiro elemento dentro do fieldset
 
 # label
 associar e identificar entrada de dados
-
-<!--<label>
-    Nome completo:
-    <input type="text">
-</label>
--->
 
 <label for="nome"></label>
 <input id="nome" type="text">
