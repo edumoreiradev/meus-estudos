@@ -6,3 +6,5 @@ console.log(name, name.surName, age)
 
 let data = new Date('2023-01-30')
 console.log(data)
+
+//
